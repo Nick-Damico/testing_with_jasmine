@@ -15,4 +15,4 @@ expect(add(0.1, 0.2)).toBe(0.3);
 add(0.1, 0.2) === 0.3;
 
 // You can negate a test by string together with the .not matcher
-expect(add(0.1, 0.2)).not.toBe(0.1);
+// expect(add(0.1, 0.2)).not.toBe(0.1);
