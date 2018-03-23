@@ -1,3 +1,15 @@
+// 'It' is used to describe a spec.
+  // or specification. if the tests within that specification
+  // are true, it passes. If false, it fails.
+  // Think of 'it' as the boundary around a test.
+
+// 'describe' is used to identify a 'suite',
+  // or a group of related specs.
+
+
+// Example describe('Player') is a suite of specs.
+
+
 describe("Player", function() {
   var player;
   var song;
